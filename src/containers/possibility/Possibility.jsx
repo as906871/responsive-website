@@ -10,8 +10,10 @@ const Possibility = () => (
     <div className="gpt3__possibility-content">
       <h4>Request Early Access to Get Started</h4>
       <h1 className="gradient__text">The possibilities are <br /> beyond your imagination</h1>
-      <p>Yet bed any for travelling assistance indulgence unpleasing. Not thoughts all exercise blessing. Indulgence way everything joy alteration boisterous the attachment. Party we years to order allow asked of.</p>
-      <h4>Request Early Access to Get Started</h4>
+      <p>Myself Akshay Kumar Sharma, i'm from Kanpur. I have done my BCA from Dr. Virendra Swarup Institute of Computer Studies, and I have done my MCA 
+          from Central University of Haryana. Currently i'm working in 18th Digitech Technologies Pvt Ltd. here i work as a Web Developer.
+           I have good knowledge of Reacjs, React-Redux, React-pwa, JavaScript and intermdiate knowledge of html, CSS, Core-java, My-sql.</p>
+      {/* <h4>Request Early Access to Get Started</h4> */}
     </div>
   </div>
 );
