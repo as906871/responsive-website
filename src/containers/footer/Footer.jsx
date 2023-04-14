@@ -72,11 +72,11 @@ const Footer = () => {
               </Form>
             </Modal.Body>
             <Modal.Footer>
-              <Button variant="secondary" onClick={handleClose1}>
+              {/* <Button variant="secondary" onClick={handleClose1}>
                 Close
-              </Button>
+              </Button> */}
               <Button variant="primary" onClick={handleClose1}>
-                Save
+                Register
               </Button>
             </Modal.Footer>
           </Modal>
@@ -113,19 +113,19 @@ const Footer = () => {
             </Modal.Body>
             <Modal.Footer>
               <Button variant="secondary" onClick={handleClose}>
-                Close
+                Login
               </Button>
               <Button variant="primary" onClick={handleClose}>
-                Save
+              Login
               </Button>
             </Modal.Footer>
           </Modal>
         </div>
         <div style={{float:"right"}}>
-          <SocialIcon url="https://github.com/as906871" style={{ height: 25 , position:"relative", width: 25, marginRight:"10px" , marginTop:"50px"}} />
-          <SocialIcon url="https://www.linkedin.com/in/as906871/" style={{ height: 25, width: 25, position:"relative",  marginRight:"10px",marginTop:"50px"  }} />
-          <SocialIcon network="twitter" bgColor="#ff5a01"  style={{ height: 25, width: 25, marginRight:"10px" , position:"relative" , marginTop:"50px"}}/>
-          <SocialIcon url="https://linkedin.com/in/jaketrent" style={{ height: 25, width: 25 , marginRight:"10px" , position:"relative", marginTop:"50px"}} />
+          <SocialIcon url="https://github.com/as906871" style={{ height: 35 , position:"relative", width: 35, marginRight:"20px" , marginTop:"50px"}} />
+          <SocialIcon url="https://www.linkedin.com/in/as906871/" style={{ height: 35, width: 35, position:"relative",  marginRight:"20px",marginTop:"50px"  }} />
+          <SocialIcon network="twitter" bgColor="#ff5a01"  style={{ height: 35, width: 35, marginRight:"20px" , position:"relative" , marginTop:"50px"}}/>
+          <SocialIcon url="https://www.youtube.com/" style={{ height: 35, width: 35 , marginRight:"20px" , position:"relative", marginTop:"50px"}} />
         </div>
       </div>
 
