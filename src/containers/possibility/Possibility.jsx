@@ -13,7 +13,6 @@ const Possibility = () => (
       <p>Myself Akshay Kumar Sharma, i'm from Kanpur. I have done my BCA from Dr. Virendra Swarup Institute of Computer Studies, and I have done my MCA 
           from Central University of Haryana. Currently i'm working in 18th Digitech Technologies Pvt Ltd. here i work as a Web Developer.
            I have good knowledge of Reacjs, React-Redux, React-pwa, JavaScript and intermdiate knowledge of html, CSS, Core-java, My-sql.</p>
-      {/* <h4>Request Early Access to Get Started</h4> */}
     </div>
   </div>
 );
